@@ -1,0 +1,39 @@
+Sure, here's a basic overview of URI design rules and a cheat sheet:
+
+### URI Design Rules:
+
+1. **Clarity**: URIs should be easy to understand and interpret by humans.
+2. **Consistency**: Maintain consistency in URI structure throughout the application.
+3. **Predictability**: Users should be able to predict URIs based on their knowledge of the application.
+4. **Robustness**: URIs should remain valid even if underlying resources change.
+5. **Readability**: URIs should be readable, with meaningful words instead of cryptic symbols or IDs.
+6. **Hierarchy**: Organize URIs hierarchically to reflect the structure of the resources they represent.
+7. **Case Sensitivity**: URIs should be case-insensitive to avoid confusion.
+8. **Avoid Long URIs**: Long URIs can be cumbersome and difficult to manage. Try to keep them concise.
+9. **Avoid Special Characters**: Minimize the use of special characters, as they can cause encoding and decoding issues.
+10. **Use Hyphens or Underscores**: Use hyphens (-) or underscores (_) to separate words in URIs for readability.
+
+### URI Cheat Sheet:
+
+- **Scheme**: `http://` or `https://` for web resources.
+- **Hostname**: Domain name or IP address.
+- **Port**: Optional, default is 80 for HTTP and 443 for HTTPS.
+- **Path**: Hierarchy of resources separated by slashes (/).
+- **Query Parameters**: Key-value pairs separated by ampersands (&) after a question mark (?).
+- **Fragment Identifier**: Optional section preceded by a hash (#) that identifies a specific section within a resource.
+
+Example:
+```
+https://example.com:8080/products?id=12345&category=electronics#reviews
+```
+
+- **Scheme**: `https://`
+- **Hostname**: `example.com`
+- **Port**: `8080`
+- **Path**: `/products`
+- **Query Parameters**: `id=12345` and `category=electronics`
+- **Fragment Identifier**: `#reviews`
+
+This cheat sheet represents a basic URI structure. Depending on your specific application and requirements, you may need to adjust these rules accordingly.
+
+

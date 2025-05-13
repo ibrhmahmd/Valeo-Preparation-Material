@@ -1,0 +1,35 @@
+Valeo interview:
+================
+1. Technical exam
+-----------------
+from the files I sent to you
+2. English test
+---------------
+vocabulary + grammar (multiple choice) 
+Comprehension usually about Diamonds
+composition, usually about success, social media or smoking
+3. Technical Interview:
+-----------------------
+Interviewer will talk with you about your previous projects.
+technical qustions:
+1. Add function, here you have to care about the data type range, for example 
+uint8 x,y,z;
+x = 255;
+y = 255;
+z = x+y; // overflow will occur cause x+y = 510 > 2^8 - 1
+
+2. factorial function (normal way or using recursion)
+3. Matrix operations, multiplication, addition
+4. sine function without math.h.
+5. searching and sorting
+6. knowledge about UART, CAN, ADC, SPI, Timers, Interrupts,
+Note: don't panic from complex function like sine, he may be asking about some specific values, if so, you can calculate them and save them in an array.
+
+4. HR interview:
+----------------
+- introduce yourself
+- weak point in you, don't say something that can kick you out from the company
+- challenge you take in your life
+- why you want valeo?
+- why you became an engineer?
+- how can you add to valeo ?

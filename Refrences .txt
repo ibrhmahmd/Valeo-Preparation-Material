@@ -1,0 +1,37 @@
+C programming
+
+- c in 100 secondes
+	https://www.youtube.com/watch?v=U3aXWizDbQ4
+
+- c Crash course 
+	https://www.youtube.com/watch?v=KJgsSFOSQv0
+
+--------------------------------------------------------------
+
+BASH 
+
+-bash in 100 seconds 
+	https://www.youtube.com/watch?v=I4EWvMFj37g&pp=ygUOYmFzaCBzY3JpcHRpbmc%3D
+
+-bash scripting 
+	https://www.youtube.com/watch?v=SPwyp2NG-bE&list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS&pp=iAQB
+
+- bash full Crash course
+	https://www.youtube.com/playlist?list=PLkH1REggdbJpfvDj_vHt90yj_lCUwTcvj
+
+--------------------------------------------------------------
+
+SQL
+
+- sql in 100 seconds 
+	https://www.youtube.com/watch?v=zsjvFFKOm3c&pp=ygUQc3FsIGNoZWF0IHNoZWV0IA%3D%3D
+
+- sql chaet sheet 
+	https://www.youtube.com/watch?v=kbKty5ZVKMY&t=20s&pp=ygUQc3FsIGNoZWF0IHNoZWV0IA%3D%3D
+
+-sql full Crashcourse
+	https://www.youtube.com/watch?v=7cIG41gjHB4&pp=ygUQc3FsIGNyYXNoIGNvdXJzZQ%3D%3D
+
+--------------------------------------------------------------
+
+
